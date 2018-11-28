@@ -3,9 +3,9 @@ package com.chen.ellen.ruibingsqlite;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.chen.ellen.ruibingsqlite.swsqlite.RuiBingLibrary;
-import com.chen.ellen.ruibingsqlite.swsqlite.RuiBingSQLite;
-import com.chen.ellen.ruibingsqlite.swsqlite.RuiBingTable;
+import com.chen.ellen.ruibingsqlite.ruibingsqlite.RuiBingLibrary;
+import com.chen.ellen.ruibingsqlite.ruibingsqlite.RuiBingSQLite;
+import com.chen.ellen.ruibingsqlite.ruibingsqlite.RuiBingTable;
 
 import java.util.ArrayList;
 import java.util.List;

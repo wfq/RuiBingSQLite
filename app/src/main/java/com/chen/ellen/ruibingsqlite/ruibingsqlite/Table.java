@@ -1,7 +1,6 @@
-package com.chen.ellen.ruibingsqlite.swsqlite;
+package com.chen.ellen.ruibingsqlite.ruibingsqlite;
 
 import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
 
 import java.lang.reflect.Field;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.chen.ellen.ruibingsqlite.swsqlite;
+package com.chen.ellen.ruibingsqlite.ruibingsqlite;
 
 import java.util.List;
 
